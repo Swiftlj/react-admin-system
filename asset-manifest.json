@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Swiftlj/react-admin-system/static/css/main.073c9b0a.css",
+    "main.js": "/Swiftlj/react-admin-system/static/js/main.b03a4273.js",
+    "static/js/787.3cbca15b.chunk.js": "/Swiftlj/react-admin-system/static/js/787.3cbca15b.chunk.js",
+    "static/media/logo.svg": "/Swiftlj/react-admin-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Swiftlj/react-admin-system/index.html",
+    "main.073c9b0a.css.map": "/Swiftlj/react-admin-system/static/css/main.073c9b0a.css.map",
+    "main.b03a4273.js.map": "/Swiftlj/react-admin-system/static/js/main.b03a4273.js.map",
+    "787.3cbca15b.chunk.js.map": "/Swiftlj/react-admin-system/static/js/787.3cbca15b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b03a4273.js"
+  ]
+}
